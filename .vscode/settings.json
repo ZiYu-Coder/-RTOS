@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "memory.h": "c",
+        "task.h": "c",
+        "stm32f10x.h": "c",
+        "stdio.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "istream": "c",
+        "ostream": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "optional": "c",
+        "system_error": "c",
+        "schedule.h": "c",
+        "heap.h": "c",
+        "stdbool.h": "c",
+        "stddef.h": "c",
+        "rtos.h": "c",
+        "usart.h": "c",
+        "stdlib.h": "c",
+        "sstream": "c",
+        "stdint.h": "c",
+        "assert.h": "c",
+        "deque": "c",
+        "string": "c",
+        "vector": "c",
+        "config.h": "c"
+    }
+}
